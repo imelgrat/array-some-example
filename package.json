@@ -1,0 +1,16 @@
+{
+  "name": "arraysome-example",
+  "version": "1.0.0",
+  "description": "The Array.some() method checks whether  some of the array elements satisfy a given condition or pass a test. Unlike every(), this method returns true when at least one of the elements passes the test. In this case, whether at least one of the elements is longer than 4 letters",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": ["javascript", "arrays", "iteration", "array some", "some", "item validation", "array validation"]
+}
